@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Risher!
 
 ### 🎓 About Me
-- **Name:** Risher
+- **Name:** MD Risher Ali
 - **Location:** West Bengal, India
 - **Education:** B.Tech from University of Engineering & Management, Kolkata | Currently studying at Masai School
 
