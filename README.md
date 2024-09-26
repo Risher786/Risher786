@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Risher!
 
-<!--
-**Risher786/Risher786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- **Name:** Risher
+- **Location:** West Bengal, India
+- **Education:** B.Tech from University of Engineering & Management, Kolkata | Currently studying at Masai School
 
-Here are some ideas to get you started:
+### 💼 Profession
+Aspiring Data Analyst with a focus on practical applications of data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- **Programming Languages:** 
+  - Python
+  - C
+- **Data Tools:** 
+  - SQL
+  - Power BI
+  - Excel
+
+### 🏆 Achievements
+- **Certifications:** 
+  - Python and SQL basic certification from HackerRank
+- **Awards:** 
+  - Inter-school football runner-up
+
+### 🌟 Interests
+- **Tech Interests:** Passionate about data analysis and exploring how data can be used to drive business decisions.
+- **Personal Interests:** Enjoy playing football and drawing in my free time.
+
+### 📫 Get in Touch
+- **Phone:** [6290522675](tel:6290522675)
+- **Email:** [risherali786786@gmail.com](mailto:risherali786786@gmail.com)
+
+Feel free to connect with me for collaboration, discussions, or any opportunities in data analysis!
