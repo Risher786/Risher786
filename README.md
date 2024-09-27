@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MD Risher Ali</h1>
 <h4 align="center">I am a proactive Data Analyst with a passion for extracting insights from complex datasets and transforming them into actionable business decisions. My expertise lies in SQL, Python, data visualization, and machine learning. With hands-on project experience across multiple domains, I am constantly exploring new ways to improve business processes through data.</h4>
 <br></br>
-<img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/c041c764f48d51a7e9fc97b0ba003698bb1b42d9d7cbe1f27cd07f113105af23/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7444356b4543324a59634b4848307a4f2e676966">
+<img align="right" alt="coding" width="500" height="230" src="https://camo.githubusercontent.com/c041c764f48d51a7e9fc97b0ba003698bb1b42d9d7cbe1f27cd07f113105af23/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7444356b4543324a59634b4848307a4f2e676966">
 
 ### 🔧 Skills
 - **Programming Languages:** Python, C, SQL
