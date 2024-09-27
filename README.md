@@ -12,10 +12,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risher786&label=Profile%20views&color=0e75b6&style=flat" alt="risher786" /> </p>
 
-- 📫 How to reach me **risherali786786@gmail.com**
+
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zZbBan7h_etobNe_7Y172n5mdAHEKXxL/view?usp=sharing)
-
+- 📫 How to reach me **risherali786786@gmail.com**
 ---
 
 <h3 align="left">Connect with me:</h3>
