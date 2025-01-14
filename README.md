@@ -12,9 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risher786&label=Profile%20views&color=0e75b6&style=flat" alt="risher786" /> </p>
 
-
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zZbBan7h_etobNe_7Y172n5mdAHEKXxL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1haUfjVHQJmP8xcBiAcCJCscBUAeu_8Wx/view?usp=sharing)
 - 📫 How to reach me **risherali786786@gmail.com**
 ---
 
@@ -57,10 +55,15 @@
 - Developed interactive Power BI dashboards to communicate findings and support decision-making processes.
 - Overcame challenges related to dynamic web content and data quality, ensuring reliable data for analysis.
 
+#### Food-Delivery-Analysis
+- **Tech Stack:** Python | BeautifulSoup | Power BI
+- Focused on web scraping, cleaning, and analyzing data from Zomato's Bangalore outlets, particularly on restaurant details.
+- Processed the data to uncover key insights about restaurant performance, popular dishes, and customer ratings.
+- Created valuable data visualizations to present insights in an easy-to-understand format.
+- Developed a detailed PowerPoint presentation summarizing findings, and an interactive dashboard to enhance user engagement and data exploration.
+
 ---
 
 ### 🏆 Achievements
 - **Certifications:** Python and SQL basic certification from HackerRank
 - **Awards:** Inter-school football runner-up
-
----
