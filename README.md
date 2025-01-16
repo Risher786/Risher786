@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+![image](https://github.com/user-attachments/assets/db5070ab-daeb-48e6-8174-5d85a3403ec8)![logo](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 
 <h1 align="center">Hi 👋, I'm MD Risher Ali</h1>
 <h4 align="center">I am a proactive Data Analyst with a passion for extracting insights from complex datasets and transforming them into actionable business decisions. My expertise lies in SQL, Python, data visualization, and machine learning. With hands-on project experience across multiple domains, I am constantly exploring new ways to improve business processes through data.</h4>
@@ -55,7 +55,7 @@
 - Developed interactive Power BI dashboards to communicate findings and support decision-making processes.
 - Overcame challenges related to dynamic web content and data quality, ensuring reliable data for analysis.
 
-#### Food-Delivery-Analysis
+#### Restaurants Analysis
 - **Tech Stack:** Python | BeautifulSoup | Power BI
 - Focused on web scraping, cleaning, and analyzing data from Zomato's Bangalore outlets, particularly on restaurant details.
 - Processed the data to uncover key insights about restaurant performance, popular dishes, and customer ratings.
